@@ -12,20 +12,6 @@ body {
 }
 
 
-.showSpinner{
-
-
-    background-image: url("../img/Spinner-Preloader-Gif.gif");
-
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    opacity: 0.5;
-
-
-}
-
 
 #form {
 
@@ -59,7 +45,6 @@ body {
     text-align: center;
     width: 100%;
     min-width: 50%;
-    max-width: 50%;
 
 }
 
